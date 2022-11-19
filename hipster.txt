@@ -4,3 +4,4 @@ to this file and
 it is 5 lines
 long.
 modified file !
+staged to 4

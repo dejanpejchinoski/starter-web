@@ -2,3 +2,4 @@ A new files
 some changes
 and some more ... 
 exploring reset command 3
+commited to 4
