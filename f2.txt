@@ -1,4 +1,3 @@
 A new files
 some changes
 and some more ... 
-not staged
