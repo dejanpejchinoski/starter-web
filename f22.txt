@@ -5,3 +5,5 @@ and some more ...
 exploring reset command 3
 commited to 4
 
+HA ha a new change
+another change that is not staged
