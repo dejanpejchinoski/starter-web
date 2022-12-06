@@ -1,6 +1,6 @@
 # robotstxt.org/
 
-User-agent: hm maybe something else !
+Add Haser-agent: hm maybe something else !
 
 Humnas added: Dejan 
 Thanks to Dejan
