@@ -4,3 +4,5 @@ Poor Haser-agent: hm maybe something editting last
 
 Humnas added: Dejan 
 Thanks to Dejan
+
+Adding some extra text for stash example
